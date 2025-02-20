@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"@mysten/sui": "^1.21.2"
+		"@mysten/sui": "1.18.0"
 	}
 }
